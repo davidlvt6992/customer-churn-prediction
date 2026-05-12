@@ -34,6 +34,23 @@ A business could use this prediction to prioritize retention actions, such as cu
 
 In this project, the focus is not only on model performance. The focus is also on building a valid, reproducible, and understandable machine learning workflow.
 
+## Dataset
+Dataset description:
+This project uses Telco Customer Churn from Kaggle.
+The dataset contains customer-level information for a telecommunications company. Each row represents a customer, each column contains some customer's attribute. The target column is `Churn`.
+
+the dataset includes features related to : 
+- Demographic info (gender, age, partners, dependents)
+- Customer account information (monthly charges, payment method, contract etc)
+- Signed services (phone, internet , streaming etc)
+
+Dataset details:
+- Source: https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+- File name: `WA_Fn-UseC_-Telco-Customer-Churn`
+- Number of rows: 7043
+- Number of columns: 21
+- Target column: `Churn`
+
 ## Initial Success Criteria
 
 The first version of this project will be considered successful if it includes:
@@ -85,18 +102,6 @@ customer-churn-prediction/
 │   └── figures/
 └── tests/
 ```
-
-## Dataset
-Dataset description:
-
-Dataset details:
-
-- Source: To be added
-- File name: To be added
-- Number of rows: To be added after inspection
-- Number of columns: To be added after inspection
-- Target column: `Churn`
-
 
 ## Setup
 
