@@ -5,6 +5,7 @@ __pycache__/
 
 # Virtual environments
 .venv/
+.chrun_venv/
 venv/
 env/
 
