@@ -1,0 +1,7 @@
+Open the dataset and answer:
+1. What does one row represent?
+2. What is the target column?
+3. Is the target balanced or imbalanced?
+4. Which columns are numeric, categorical, or IDs?
+5. Are there missing values or strange data types?
+6. Is there any feature that might not be available at prediction time?
