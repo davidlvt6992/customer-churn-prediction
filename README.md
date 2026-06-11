@@ -111,7 +111,7 @@ Setup instructions will be added after the project environment is finalized.
 Current Milestone - Baseline Modeling 
 
 Completed: 
-- EDA notebook
+- Added basline modeling with cross-validation
 
 Next: 
-- Summarize Basline models results
+- Begin working on Logistic Regression parameters fine tunning 
