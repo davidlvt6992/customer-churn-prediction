@@ -108,15 +108,10 @@ customer-churn-prediction/
 Setup instructions will be added after the project environment is finalized.
 
 ## Current Status 
-Current Milestone - project setup and problem framing. 
+Current Milestone - Baseline Modeling 
 
 Completed: 
-- Folder structure
-- README.md file 
-- Initial requirements.txt (empty) file
+- EDA notebook
 
 Next: 
-- Fill .gitignore
-- Fill requirements.txt 
-- Push initial commit to GitHub
-- Download and inspect data
+- Summarize Basline models results
